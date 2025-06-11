@@ -1,0 +1,38 @@
+﻿
+body{
+    background-color: #333333;
+    color: #EEEEEE;
+    font-family: Roboto, sans-serif;
+}
+#title-bar{
+    align-content: center;
+    text-align: center;
+}
+#title-bar h1{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    font-family: Orbitron, sans-serif;
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+#text-body{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.download-btn{
+    background-color: aqua;
+    color: #333333;
+    display: inline-block;
+    text-decoration: none;
+    padding: 50px 30px;
+    margin: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+#github-btn{
+    background-color: teal;
+}
