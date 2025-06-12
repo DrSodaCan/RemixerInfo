@@ -11,10 +11,9 @@ body{
 #title-bar h1{
     align-content: center;
     text-align: center;
-    margin: auto;
     font-family: Orbitron, sans-serif;
     font-size: 60px;
-    margin-bottom: 40px;
+    margin: auto auto 40px;
 }
 #text-body{
     margin-left: 40px;
@@ -34,5 +33,5 @@ body{
 }
 
 #github-btn{
-    background-color: teal;
+    background-color: #00ff8c;
 }
